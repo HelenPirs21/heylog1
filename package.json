@@ -1,7 +1,12 @@
 {
-  "name": "dummy-project",
+  "name": "my-project",
   "version": "1.0.0",
   "description": "heylog1",
-  "author": "HelenPirs21",
-  "license": "MIT"
+  "main": "index.js",
+  "dependencies": {
+    "dependency-name": "1.0.0"
+  },
+  "devDependencies": {
+    "dev-dependency-name": "2.0.0"
+  }
 }
